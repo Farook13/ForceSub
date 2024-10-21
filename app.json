@@ -8,11 +8,11 @@
   "success_url": "https://t.me/BotzHub",
   "env": {
     "BOT_TOKEN": {
-      "description": "Bot token, get it from @BotFather.",
+      "description": "7637427686:AAGzEV2i3At6Lp2EdnZMHeE694N1wzMv6hU",
       "value": ""
     },
     "CHANNEL": {
-      "description": "Channel @username for force join.",
+      "description": "Channel @subtogetmovie",
       "value": ""
     },
     "WELCOME_MSG": {
