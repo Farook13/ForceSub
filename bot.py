@@ -29,8 +29,8 @@ log = logging.getLogger("BotzHub")
 # start the bot
 log.info("Starting...")
 try:
-    bottoken = config("BOT_TOKEN")
-    xchannel = config("CHANNEL")
+    bottoken = config("7637427686:AAGzEV2i3At6Lp2EdnZMHeE694N1wzMv6hU")
+    xchannel = config("@subtogetmovie")
     welcome_msg = config("WELCOME_MSG")
     welcome_not_joined = config("WELCOME_NOT_JOINED")
     on_join = config("ON_JOIN", cast=bool)
